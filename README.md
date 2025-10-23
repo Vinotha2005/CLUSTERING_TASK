@@ -1,12 +1,11 @@
-# CLUSTERING_TASK
 
 # Student Data Analysis and Prediction
 
 ## Project Overview
 This project performs **data preprocessing, clustering, regression modeling, and visualization** on a student dataset. It demonstrates a complete workflow for exploratory data analysis (EDA), handling skewed data, outlier treatment, feature scaling, clustering, and predictive modeling using machine learning algorithms.
 
-## STUDENT PERFORMANCE PREDICTION APP:
-
+### STUDENT PERFORMANCE PREDICTION APP:
+https://clusteringtask-1.streamlit.app/
 
 ## Features
 1. **Data Preprocessing**
